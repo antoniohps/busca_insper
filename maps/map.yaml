@@ -1,0 +1,7 @@
+image: ./sparse_obstacles.pgm
+resolution: 0.01677400
+origin: [-6.500000, -6.256800, 0.000000]
+negate: 0
+occupied_thresh: 0.7
+free_thresh: 0.2
+
